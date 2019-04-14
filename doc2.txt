@@ -1,0 +1,2 @@
+Hi im doc2 file
+Im edited by nano
