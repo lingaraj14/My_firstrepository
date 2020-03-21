@@ -1,0 +1,1 @@
+Added stash in 'feature_stash_test' branch and come to 'feature_stash_test2' branch
