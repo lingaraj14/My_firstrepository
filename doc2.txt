@@ -1,2 +1,4 @@
 Hi im doc2 file
 Im edited by nano
+
+Added the line from the branch named as branch_29_02_2020
