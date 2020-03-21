@@ -10,3 +10,5 @@ line added in 29_02_2020
 added from git hub on 29-02-2020
 
 added line from the branch named as branch_20_02_2020
+
+This line added, while tested to not moving the configuration file to the repository

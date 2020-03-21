@@ -1,0 +1,2 @@
+The perpose of creating this file, not to push to the repository.
+Let say some configuration file.
